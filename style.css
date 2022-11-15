@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: red;
+  text-align: center;
+}
+img{
+  border-image-width: 100px;
+}
+figcaption{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+section{
+  text-align: center;
+}
